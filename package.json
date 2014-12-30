@@ -1,0 +1,14 @@
+{
+  "name": "losttype-listing",
+  "version": "0.0.0",
+  "description": "Font Value Data for the entire Lost Type Co-op catalogue.",
+  "homepage": "http://opensource.losttype.com",
+  "author": "Kenneth Ormandy <hello@kennethormandy.com>",
+  "license": "MIT",
+  "repository": "git@github.com:losttype/listing.git",
+  "keywords": ["font", "type", "webfont", "typography", "metadata", "ecosystem:losttype"],
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified…yet! Pull requests on losttype/listing are greatly appriciated.\" && exit 1"
+  }
+}
