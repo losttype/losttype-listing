@@ -14,4 +14,4 @@ npm install --save losttype-listing
 
 Available under [the MIT License](LICENSE.md) from your friends at [Lost Type](http://twitter.com/losttypecoop).
 
-Copyright 2014 © [Kenneth Ormandy](http://kennethormandy.com) & [The Lost Type Co-op](http://losttype.com)
+Copyright 2014–2015 © [Kenneth Ormandy](http://kennethormandy.com) & [The Lost Type Co-op](http://losttype.com)
