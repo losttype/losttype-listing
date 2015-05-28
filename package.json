@@ -8,7 +8,10 @@
   "repository": "git@github.com:losttype/listing.git",
   "keywords": ["font", "type", "webfont", "typography", "metadata", "ecosystem:losttype"],
   "main": "index.json",
+  "devDependencies": {
+    "jsonlint": "^1.6.2"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified…yet! Pull requests on losttype/listing are greatly appriciated.\" && exit 1"
+    "test": "jsonlint index.json -q"
   }
 }
