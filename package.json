@@ -3,10 +3,17 @@
   "version": "0.1.1",
   "description": "Font Value Data for the entire Lost Type Co-op catalogue.",
   "homepage": "http://opensource.losttype.com",
-  "author": "Kenneth Ormandy <hello@kennethormandy.com>",
+  "author": "Kenneth Ormandy <hello@kennethormandy.com> (http://kennethormandy.com)",
   "license": "MIT",
   "repository": "git@github.com:losttype/listing.git",
-  "keywords": ["font", "type", "webfont", "typography", "metadata", "ecosystem:losttype"],
+  "keywords": [
+    "font",
+    "type",
+    "webfont",
+    "typography",
+    "metadata",
+    "ecosystem:losttype"
+  ],
   "main": "index.json",
   "devDependencies": {
     "jsonlint": "^1.6.2"
